@@ -13,5 +13,5 @@ pipreqsnb --savepath ./a3/python3.8.10_requirements.txt ./a3/a3.ipynb
 - A4.1.2.4: How to use R-like formula? There is no integration of `sklearn` with `patsy`.
 - A4.1.2.8: How to set random seed in `sklearn` for `KNeighborsClassifier`? I can only do `np.random.seed(1)`, but I do not know if it is related.
 
-# Bugs
+# Assignment Typos
 - A6. `ggscatter(Carseats, x = "Sales", y = "Price" ...` - axis labels were switched;
