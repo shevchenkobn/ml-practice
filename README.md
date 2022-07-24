@@ -17,3 +17,6 @@ pipreqsnb --savepath ./a3/python3.8.10_requirements.txt ./a3/a3.ipynb
 - "Interprete" instead of "Interpret";
 - A6 `ggscatter(Carseats, x = "Sales", y = "Price" ...`: axis labels were switched;
 - A6.1.2.4 `when building a random forest of classification trees`: _regression_ tees are meant because `medv` in `Boston` is of float type;
+
+# TODO:
+- experiment to understand better A7.`plot_svm`;
